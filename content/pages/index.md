@@ -15,9 +15,10 @@ sections:
     backgroundSize: full
     title: honk ~ a goose
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Hello, i'm some random web developer who tried to share his HTML not once
+      but twice and failed, so i'm doing this, hooray. I will be sharing my
+      projects on here along wigh a bunch of other cool stuff, [give me] peace
+      bros.
     styles:
       self:
         height: auto
