@@ -4,7 +4,7 @@ title: the future of the internet
 colors: colors-b
 date: '2024-01-01'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: will help us or not?
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image3.jpg
