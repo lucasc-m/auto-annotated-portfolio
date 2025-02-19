@@ -4,7 +4,9 @@ title: "How to create simple death star  render using three.js \U0001F5C2️"
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  this recreates the technical readout of the death star during the briefing
+  scene in star wars episode IV
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
