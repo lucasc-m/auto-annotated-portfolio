@@ -2,7 +2,7 @@
 type: PostLayout
 title: "Sharing my wisdom with the world \U0001F30E"
 colors: colors-a
-date: '0202-02-18'
+date: '2025-02-18'
 author: content/data/team/doris-soto.json
 excerpt: my thoughts about the current times. 18/02/25
 featuredImage:
